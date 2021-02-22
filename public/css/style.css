@@ -1,0 +1,17 @@
+.navbar .navbar-nav .nav-link{
+
+	font-weight: 500;
+	color: #000;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-transform: uppercase;
+}
+
+.navbar-brand{
+	font-weight: 500;
+}
+
+.carousel-item{
+	height: 450px;
+}
+a{color: #505050;}
